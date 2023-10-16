@@ -4,7 +4,8 @@ A Go (golang) CLI application for weather forecast.
 
 ## Usage
 
-> Make sure you add .env file with your own API key
+> Make sure you add .env file with your own API key.
+> 
 > Then run:
 
 ```shell
