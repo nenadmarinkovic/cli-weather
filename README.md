@@ -1,14 +1,14 @@
 # Weather CLI ☀️
 
-A Go (golang) CLI application for weather forecast
+A Go CLI application for weather forecast in your Terminal.
 
 ## Usage
 
-You should no longer encounter the "API key not found" error when you run `cli-weather` from your Zsh shell.
-
-Then run:
+> Make sure you add .env file with your own API key
+> Then run:
 
 ```shell
+go build .
 go build .
 ```
 
