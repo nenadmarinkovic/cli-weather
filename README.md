@@ -4,11 +4,10 @@ A Go CLI application for weather forecast in your Terminal.
 
 ## Usage
 
-> Make sure you add .env file with your own API key
-> Then run:
+Make sure you add .env file with your own API key
+Then run:
 
 ```shell
-go build .
 go build .
 ```
 
@@ -27,9 +26,9 @@ If you're using the Zsh shell, you can set environment variables in your Zsh con
 
 1. Open your Zsh configuration file in a text editor. You can use a command like `nano`, `vim`, or any other text editor you prefer:
 
-   ```bash
-   nano ~/.zshrc
-   ```
+```bash
+nano ~/.zshrc
+```
 
 2. Add the following line to set the `WEATHER_API_KEY` environment variable. Replace `"your_api_key_here"` with your actual API key:
 
