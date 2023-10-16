@@ -8,6 +8,7 @@ Make sure you add .env file with your own API key, like:
 
 ```shell
 export WEATHER_API_KEY=123456789ABCD
+```
 
 Then run:
 
