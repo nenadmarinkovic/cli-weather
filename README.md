@@ -9,7 +9,7 @@ Make sure you add .env file with your own API key.
 Then run:
 
 ```shell
-    go build .
+go build .
 ```
 
 Then, move executable to /usr/local/bin
