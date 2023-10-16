@@ -1,6 +1,6 @@
 # Weather CLI ☀️
 
-A Go (golang) CLI application for weather forecast
+A Go (golang) CLI application for weather forecast.
 
 ## Usage
 
