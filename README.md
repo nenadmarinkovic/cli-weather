@@ -4,7 +4,7 @@ A Go CLI application for weather forecast in your Terminal.
 
 ## Usage
 
-Make sure you add .env file with your own API key from https://www.weatherapi.com/, like:
+Make sure you add .env file with your own API key from https://www.weatherapi.com, like:
 
 ```shell
 export WEATHER_API_KEY=123456789ABCD
