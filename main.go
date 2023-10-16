@@ -9,17 +9,12 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/joho/godotenv"
 )
 
 func main() {
 	q := "Vienna"
 	if len(os.Args) >= 2 {
 		q = os.Args[1]
-	}
-
-	if err := godotenv.Load(); err != nil {
-		fmt.Println("Error loading .env file")
 	}
 
 	apiKey := os.Getenv("WEATHER_API_KEY")
